@@ -2,7 +2,7 @@
 这本书有些类似于《Effective C++》的感觉，给了很多实用的黄金玉律，欢迎大家一起交流呀！
 顺便提供图书的链接
 https://product.dangdang.com/29605935.html
-
+下面是英文版的作者自己的介绍：
 # C++ Core Guidelines: Best Practices for Modern C++
 This is the code repository for my book [C++ Core Guidelines: Best Practices for Modern C++](https://www.pearson.com/us/higher-education/program/Grimm-C-Core-Guidelines-Explained-Best-Practices-for-Modern-C/PGM2928303.html)
 I put the name of the source file in the title of each source code example in the book. 
